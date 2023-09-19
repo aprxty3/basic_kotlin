@@ -21,7 +21,6 @@ fun main() {
     val valueB: Int = 20
     println(valueA + valueB)
 
-
     var vocal = 'A'
 
     println("Vocal " + vocal++)
@@ -35,6 +34,20 @@ fun main() {
     println("Vocal " + vocal++)
     println("Vocal " + vocal++)
     println("Vocal " + vocal++)
+
+
+    //Escape String
+    println("I'm Ajii \"Saputra\"")
+
+    //Raw String
+    println("haayy \n akuu \n ajii")
+
+    println("""
+        >Halo
+        >Saya
+        >Ajii
+        >Saputra
+    """.trimIndent())
 
 }
 
