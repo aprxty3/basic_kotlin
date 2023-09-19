@@ -1,0 +1,23 @@
+fun main() {
+
+    // ketika menggunakan type data var maka bisa diubah
+    var name:  String = "Ajii"
+    name = "Saputra"
+    println(name)
+
+
+    val firstName = "Ajii"
+    val lastName = "Saputra"
+
+    println(firstName + lastName)
+
+    // ketika menggunakan type data val maka tidak bisa diubah
+//    firstName = "Saputra"
+//    print(firstName + lastName)
+
+    // ketika data Int + Int maka hasilnya akan bertambah output valuenya, sedangkan ketika data String + String maka hasilnya akan digabungkan
+    val valueA = 10
+    val valueB: Int = 20
+    print(valueA + valueB)
+
+}
