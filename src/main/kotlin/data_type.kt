@@ -1,7 +1,8 @@
 fun main() {
 
+
     // ketika menggunakan type data var maka bisa diubah
-    var name:  String = "Ajii"
+    var name: String = "Ajii"
     name = "Saputra"
     println(name)
 
@@ -18,6 +19,22 @@ fun main() {
     // ketika data Int + Int maka hasilnya akan bertambah output valuenya, sedangkan ketika data String + String maka hasilnya akan digabungkan
     val valueA = 10
     val valueB: Int = 20
-    print(valueA + valueB)
+    println(valueA + valueB)
+
+
+    var vocal = 'A'
+
+    println("Vocal " + vocal++)
+    println("Vocal " + vocal++)
+    println("Vocal " + vocal++)
+    println("Vocal " + vocal++)
+    println("Vocal " + vocal++)
+    println("Vocal " + vocal++)
+    println("Vocal " + vocal++)
+    println("Vocal " + vocal++)
+    println("Vocal " + vocal++)
+    println("Vocal " + vocal++)
+    println("Vocal " + vocal++)
 
 }
+
