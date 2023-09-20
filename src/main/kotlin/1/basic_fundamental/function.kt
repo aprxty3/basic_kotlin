@@ -1,3 +1,5 @@
+package `1`.basic_fundamental
+
 fun main() {
     val user = setUser("Ajii", 20)
     println(user)

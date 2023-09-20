@@ -1,3 +1,5 @@
+package `1`.basic_fundamental
+
 fun main() {
     val name = "Ajii"
     println("Hello my name is $name")
