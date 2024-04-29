@@ -48,3 +48,7 @@ O
 src/main/kotlin/basic/string.kt,e/1/e1c8fe03147d236c9a91116b7a3f67269528a25d
 Q
 !src/main/kotlin/basic/variabel.kt,4/9/492f220779464ffaa963ac2d42a15786578a4828
+N
+src/main/kotlin/basic/array.kt,8/c/8c7358e5be5ceb6770b8222f89752ba358c835be
+N
+src/main/kotlin/basic/range.kt,f/8/f819f89b6955524c647be9f6ff34ecf18e88df10
