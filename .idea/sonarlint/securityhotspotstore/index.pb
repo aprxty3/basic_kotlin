@@ -30,3 +30,15 @@ _
 /src/main/kotlin/2/control_flow/1.enumeration.kt,b/1/b1448c9dc5f4d2dea52678b2270c02643e5b4b5b
 c
 3src/main/kotlin/2/control_flow/3.when_expression.kt,b/5/b556bc75fcb41911aadafdf70047dc0e6f7e3609
+O
+src/main/kotlin/basic/number.kt,e/7/e7a57f80a1f6f1f7b77dae0eb96c5251768af161
+R
+"src/main/kotlin/basic/character.kt,f/9/f99a246c292f670f771176fae91ae8d9b710a670
+w
+G.idea/sonarlint/issuestore/e/7/e7a57f80a1f6f1f7b77dae0eb96c5251768af161,f/5/f564b5f33f0db2832c9ce388704f1bef233d4728
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+Å
+Q.idea/sonarlint/securityhotspotstore/e/7/e7a57f80a1f6f1f7b77dae0eb96c5251768af161,7/1/717f3301ff4b6a96bcdce71b290736ac44296c4b
