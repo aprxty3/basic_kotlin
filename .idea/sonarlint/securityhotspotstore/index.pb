@@ -42,3 +42,7 @@ S
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
 Å
 Q.idea/sonarlint/securityhotspotstore/e/7/e7a57f80a1f6f1f7b77dae0eb96c5251768af161,7/1/717f3301ff4b6a96bcdce71b290736ac44296c4b
+P
+ src/main/kotlin/basic/boolean.kt,f/5/f5565c7ba3900d0e69a5448fef06f7fd4daa1a6d
+O
+src/main/kotlin/basic/string.kt,e/1/e1c8fe03147d236c9a91116b7a3f67269528a25d
