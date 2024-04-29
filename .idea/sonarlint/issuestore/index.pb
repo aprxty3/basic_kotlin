@@ -46,3 +46,5 @@ P
  src/main/kotlin/basic/boolean.kt,f/5/f5565c7ba3900d0e69a5448fef06f7fd4daa1a6d
 O
 src/main/kotlin/basic/string.kt,e/1/e1c8fe03147d236c9a91116b7a3f67269528a25d
+Q
+!src/main/kotlin/basic/variabel.kt,4/9/492f220779464ffaa963ac2d42a15786578a4828
