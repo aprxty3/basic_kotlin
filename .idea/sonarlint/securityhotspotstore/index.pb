@@ -56,3 +56,7 @@ T
 $src/main/kotlin/basic/operational.kt,c/1/c172fc176af0feeb8c9e631e5d4d5a7f12eb36ce
 V
 &src/main/kotlin/basic/if_expression.kt,f/c/fc354bc0f2a4e76d47991644e4f9b1e10fb81833
+X
+(src/main/kotlin/basic/when_expression.kt,a/a/aa20ecb75aeeda873a9fabdd19c43d703b12c0be
+R
+"src/main/kotlin/basic/for_loops.kt,3/3/3319731dd9b3cf76c78651c198ffae701c07cd36
