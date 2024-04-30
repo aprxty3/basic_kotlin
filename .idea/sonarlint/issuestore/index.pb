@@ -66,3 +66,5 @@ Q
 !src/main/kotlin/basic/do_while.kt,a/f/af8fdf441b07e4ec16f6214a38e92c5e1dd4e792
 W
 'src/main/kotlin/basic/break_continue.kt,8/3/831ac542703c5986815d143bbf728ee886de3c4f
+Q
+!src/main/kotlin/basic/function.kt,0/5/05acde49f8b277cb7b9fb5fa9373e5c49870217b
