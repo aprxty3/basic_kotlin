@@ -68,3 +68,5 @@ W
 'src/main/kotlin/basic/break_continue.kt,8/3/831ac542703c5986815d143bbf728ee886de3c4f
 Q
 !src/main/kotlin/basic/function.kt,0/5/05acde49f8b277cb7b9fb5fa9373e5c49870217b
+Z
+*src/main/kotlin/basic/function_argument.kt,b/d/bd870be8d24733e7f790f583f06d4dcd227a8054
