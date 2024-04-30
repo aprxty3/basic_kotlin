@@ -60,3 +60,5 @@ X
 (src/main/kotlin/basic/when_expression.kt,a/a/aa20ecb75aeeda873a9fabdd19c43d703b12c0be
 R
 "src/main/kotlin/basic/for_loops.kt,3/3/3319731dd9b3cf76c78651c198ffae701c07cd36
+S
+#src/main/kotlin/basic/while_loop.kt,f/4/f491b8be6b4f116d14144a7d3989ab0bdb353bc6
