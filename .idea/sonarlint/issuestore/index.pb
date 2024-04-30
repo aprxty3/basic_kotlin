@@ -52,3 +52,5 @@ N
 src/main/kotlin/basic/array.kt,8/c/8c7358e5be5ceb6770b8222f89752ba358c835be
 N
 src/main/kotlin/basic/range.kt,f/8/f819f89b6955524c647be9f6ff34ecf18e88df10
+T
+$src/main/kotlin/basic/operational.kt,c/1/c172fc176af0feeb8c9e631e5d4d5a7f12eb36ce
