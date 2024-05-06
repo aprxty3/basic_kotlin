@@ -72,3 +72,7 @@ Q
 +src/main/kotlin/basic/extention_function.kt,d/6/d690d569221709896997f096cc40d017435fd602
 `
 0src/main/kotlin/basic/function_infix_notation.kt,a/6/a6d2c1ec63c967995b89ed4302f7112c043b396e
+W
+'src/main/kotlin/basic/function_scope.kt,3/c/3c1a4253c1447e55deaf68227d2988498eee0f46
+P
+ src/main/kotlin/basic/if_when.kt,5/f/5fde53e08c13f220af6d3f4e2f77ef1f102d1805
