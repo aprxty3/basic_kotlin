@@ -70,3 +70,5 @@ Q
 !src/main/kotlin/basic/function.kt,0/5/05acde49f8b277cb7b9fb5fa9373e5c49870217b
 [
 +src/main/kotlin/basic/extention_function.kt,d/6/d690d569221709896997f096cc40d017435fd602
+`
+0src/main/kotlin/basic/function_infix_notation.kt,a/6/a6d2c1ec63c967995b89ed4302f7112c043b396e
