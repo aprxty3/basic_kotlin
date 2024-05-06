@@ -82,3 +82,5 @@ P
 0src/main/kotlin/basic/tail_recursive_function.kt,a/f/afa3e66d0fb989027cc2a6decc4f7a038dab2feb
 X
 (src/main/kotlin/basic/lambda_function.kt,e/0/e0668e0e943102ec25d20a227679da95e041f956
+\
+,src/main/kotlin/basic/high_order_function.kt,d/d/dd74a93c4622a8d4b1893591fbca2642ce29bcfb
