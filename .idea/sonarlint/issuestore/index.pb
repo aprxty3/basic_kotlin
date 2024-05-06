@@ -84,3 +84,5 @@ X
 (src/main/kotlin/basic/lambda_function.kt,e/0/e0668e0e943102ec25d20a227679da95e041f956
 \
 ,src/main/kotlin/basic/high_order_function.kt,d/d/dd74a93c4622a8d4b1893591fbca2642ce29bcfb
+[
++src/main/kotlin/basic/anonymous_function.kt,6/9/69ed0326d4cea3b883508a8d08bff1926da06529
