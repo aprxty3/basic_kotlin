@@ -76,3 +76,7 @@ W
 'src/main/kotlin/basic/function_scope.kt,3/c/3c1a4253c1447e55deaf68227d2988498eee0f46
 P
  src/main/kotlin/basic/if_when.kt,5/f/5fde53e08c13f220af6d3f4e2f77ef1f102d1805
+[
++src/main/kotlin/basic/recursive_function.kt,3/d/3da11743ac0ae3daa1395289630b3dafb7b1a91c
+`
+0src/main/kotlin/basic/tail_recursive_function.kt,a/f/afa3e66d0fb989027cc2a6decc4f7a038dab2feb
