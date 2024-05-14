@@ -4,7 +4,7 @@ import oop.data.Address
 import oop.data.Car
 import oop.data.Person
 
-fun main(){
+fun main() {
     val person = Person()
     val address = Address()
     val car = Car()
@@ -12,4 +12,10 @@ fun main(){
     println(address)
     println(person)
     println(car)
+
+    person.firstname = "A"
+    person.middleName = "J"
+    person.lastName = "I"
+
+    println(person.firstname)
 }
