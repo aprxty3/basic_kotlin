@@ -106,3 +106,11 @@ J
 src/main/kotlin/oop/Car.kt,d/9/d9a92f11dc640aef0ca408c6f8c254531209fcce
 N
 src/main/kotlin/oop/Address.kt,0/7/074ce35c5787cacf6c65bf43b2592b909362a7cc
+Q
+!src/main/kotlin/oop/app/object.kt,9/3/93f261d042db97c6de91214abe0053e5dc66691d
+S
+#src/main/kotlin/oop/data/Address.kt,7/a/7adcaf99b1fea3e9e3e8e65e810ac8f8ca35dc5d
+O
+src/main/kotlin/oop/data/Car.kt,5/e/5ee67a09e3bee840f9ae0c50d3444800d4ed0820
+R
+"src/main/kotlin/oop/data/Person.kt,b/8/b862e19180c7de24e0caf19306ff373401ef37b7
