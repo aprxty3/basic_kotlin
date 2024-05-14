@@ -88,3 +88,5 @@ P
  src/main/kotlin/basic/closure.kt,4/7/475cf2a90161df3dc00d9629423eeef631a75680
 X
 (src/main/kotlin/basic/inline_function.kt,8/2/8221400a388aeb9a45710ef565438db226c2e33f
+N
+src/main/kotlin/basic/label.kt,e/3/e38f2c87c8614bf50682f9c27f238c42fcf77fad
