@@ -72,8 +72,6 @@ Q
 +src/main/kotlin/basic/extention_function.kt,d/6/d690d569221709896997f096cc40d017435fd602
 `
 0src/main/kotlin/basic/function_infix_notation.kt,a/6/a6d2c1ec63c967995b89ed4302f7112c043b396e
-W
-'src/main/kotlin/basic/function_scope.kt,3/c/3c1a4253c1447e55deaf68227d2988498eee0f46
 P
  src/main/kotlin/basic/if_when.kt,5/f/5fde53e08c13f220af6d3f4e2f77ef1f102d1805
 [
@@ -86,3 +84,7 @@ X
 ,src/main/kotlin/basic/high_order_function.kt,d/d/dd74a93c4622a8d4b1893591fbca2642ce29bcfb
 [
 +src/main/kotlin/basic/anonymous_function.kt,6/9/69ed0326d4cea3b883508a8d08bff1926da06529
+P
+ src/main/kotlin/basic/closure.kt,4/7/475cf2a90161df3dc00d9629423eeef631a75680
+X
+(src/main/kotlin/basic/inline_function.kt,8/2/8221400a388aeb9a45710ef565438db226c2e33f
