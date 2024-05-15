@@ -124,3 +124,7 @@ Q
 !src/main/kotlin/oop/data/Shape.kt,9/a/9a0e2beda5eca5ae820217df13809a63b39eefdd
 ^
 .src/main/kotlin/oop/app/properties_override.kt,d/b/dbc0d0b97c81293b7a4fda926d5dd49f5bf97d1f
+T
+$src/main/kotlin/oop/data/Customer.kt,5/7/573c42a2e74a5349d53d769bbe77c7375c24c2d6
+[
++src/main/kotlin/oop/app/SuperConstructor.kt,6/3/63eb1ee423666b15f1b36e347b6f8a9e84b991c0
