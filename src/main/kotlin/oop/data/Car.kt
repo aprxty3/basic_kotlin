@@ -1,7 +1,7 @@
 package oop.data
 
-class Car {
+class Car(paramBrand: String, paramYear: Int = 2022) {
 
-    var brand: String = ""
-    var year: Int = 2024
+    var brand: String = paramBrand
+    var year: Int = paramYear
 }

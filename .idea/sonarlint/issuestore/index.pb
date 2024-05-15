@@ -98,14 +98,6 @@ S
 #src/main/kotlin/basic/main_param.kt,c/1/c14938880d40b97d151bedac410fb301caa43be3
 P
  src/main/kotlin/basic/comment.kt,c/4/c412f99bf16e2355aaf70825994cc97be408db14
-L
-src/main/kotlin/oop/class.kt,0/d/0d0a479d2e394eac672768191e18498a64ecb00e
-M
-src/main/kotlin/oop/Person.kt,0/f/0fb0531d5cb228982a27188b815ad361b6cf4d34
-J
-src/main/kotlin/oop/Car.kt,d/9/d9a92f11dc640aef0ca408c6f8c254531209fcce
-N
-src/main/kotlin/oop/Address.kt,0/7/074ce35c5787cacf6c65bf43b2592b909362a7cc
 Q
 !src/main/kotlin/oop/app/object.kt,9/3/93f261d042db97c6de91214abe0053e5dc66691d
 S
@@ -114,3 +106,5 @@ O
 src/main/kotlin/oop/data/Car.kt,5/e/5ee67a09e3bee840f9ae0c50d3444800d4ed0820
 R
 "src/main/kotlin/oop/data/Person.kt,b/8/b862e19180c7de24e0caf19306ff373401ef37b7
+V
+&src/main/kotlin/oop/app/constructor.kt,2/5/25f63514190511f9c7279227350e12d4cf011fd1
