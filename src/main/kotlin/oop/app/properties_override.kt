@@ -10,4 +10,5 @@ fun main(){
 
     val shape2 = Rectangel()
     println(shape2.corner)
+    println(shape2.superParent)
 }
