@@ -110,3 +110,7 @@ V
 &src/main/kotlin/oop/app/constructor.kt,2/5/25f63514190511f9c7279227350e12d4cf011fd1
 `
 0src/main/kotlin/oop/app/secondary_constructor.kt,c/6/c634264a984ae08b28a4d3f3f3bc82cb9173d5eb
+`
+0src/main/kotlin/oop/app/PropertiesConstructor.kt,2/6/260b17d9d26e9510d8a4f6b299c6be31d8b98ff6
+P
+ src/main/kotlin/oop/data/User.kt,a/f/afc45747bcf217eb5928bfdbcc0ce3df57737e96
