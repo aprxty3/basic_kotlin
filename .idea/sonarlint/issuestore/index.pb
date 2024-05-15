@@ -120,3 +120,7 @@ T
 $src/main/kotlin/oop/data/Employee.kt,c/5/c5e7f23a51dc34165fa7a734b94913be5f7dc415
 V
 &src/main/kotlin/oop/app/inheritance.kt,d/7/d75853a1e8b15e48f4708e89ae85478a36f619a1
+Q
+!src/main/kotlin/oop/data/Shape.kt,9/a/9a0e2beda5eca5ae820217df13809a63b39eefdd
+^
+.src/main/kotlin/oop/app/properties_override.kt,d/b/dbc0d0b97c81293b7a4fda926d5dd49f5bf97d1f
