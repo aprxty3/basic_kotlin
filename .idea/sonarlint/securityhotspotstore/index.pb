@@ -114,3 +114,5 @@ V
 0src/main/kotlin/oop/app/PropertiesConstructor.kt,2/6/260b17d9d26e9510d8a4f6b299c6be31d8b98ff6
 P
  src/main/kotlin/oop/data/User.kt,a/f/afc45747bcf217eb5928bfdbcc0ce3df57737e96
+S
+#src/main/kotlin/oop/app/function.kt,0/9/097896ec76597b57df22b41df2fc5d4911f828c3
