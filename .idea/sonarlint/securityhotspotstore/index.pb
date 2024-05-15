@@ -116,3 +116,7 @@ P
  src/main/kotlin/oop/data/User.kt,a/f/afc45747bcf217eb5928bfdbcc0ce3df57737e96
 S
 #src/main/kotlin/oop/app/function.kt,0/9/097896ec76597b57df22b41df2fc5d4911f828c3
+T
+$src/main/kotlin/oop/data/Employee.kt,c/5/c5e7f23a51dc34165fa7a734b94913be5f7dc415
+V
+&src/main/kotlin/oop/app/inheritance.kt,d/7/d75853a1e8b15e48f4708e89ae85478a36f619a1
