@@ -108,3 +108,5 @@ R
 "src/main/kotlin/oop/data/Person.kt,b/8/b862e19180c7de24e0caf19306ff373401ef37b7
 V
 &src/main/kotlin/oop/app/constructor.kt,2/5/25f63514190511f9c7279227350e12d4cf011fd1
+`
+0src/main/kotlin/oop/app/secondary_constructor.kt,c/6/c634264a984ae08b28a4d3f3f3bc82cb9173d5eb

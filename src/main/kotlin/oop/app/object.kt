@@ -6,9 +6,7 @@ import oop.data.Person
 
 fun main() {
     val person = Person()
-    val address = Address()
 
-    println(address)
     println(person)
 
     person.firstname = "A"
