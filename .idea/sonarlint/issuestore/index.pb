@@ -128,3 +128,5 @@ T
 $src/main/kotlin/oop/data/Customer.kt,5/7/573c42a2e74a5349d53d769bbe77c7375c24c2d6
 [
 +src/main/kotlin/oop/app/SuperConstructor.kt,6/3/63eb1ee423666b15f1b36e347b6f8a9e84b991c0
+T
+$src/main/kotlin/oop/app/TypeCheck.kt,6/f/6f0a990c2d7a3e9a808ef3a8f63c214ab4a008b8
