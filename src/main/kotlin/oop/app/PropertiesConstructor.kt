@@ -7,4 +7,6 @@ fun main() {
 
     user1.username = "asdads"
     println(user1.username)
+
+    println(user1)
 }
