@@ -140,3 +140,5 @@ R
 "src/main/kotlin/oop/data/Animal.kt,9/4/94985d43be28786abac76e721d1388b8b06db07a
 W
 'src/main/kotlin/oop/app/GetterSetter.kt,9/c/9c9a30e8a5ee05041458baacc89020f9766669f5
+S
+#src/main/kotlin/oop/app/LateInit.kt,9/e/9e5bbc12a231a6823c5b457b1a54c02069f58ad0
