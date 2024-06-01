@@ -136,3 +136,5 @@ T
 $src/main/kotlin/oop/data/Location.kt,f/4/f42920673c20555bc5097416331f36f1a25f2040
 X
 (src/main/kotlin/oop/app/AbstractClass.kt,1/4/1400100fec787dbc2f8ae8a37e258568369dcd0e
+R
+"src/main/kotlin/oop/data/Animal.kt,9/4/94985d43be28786abac76e721d1388b8b06db07a
