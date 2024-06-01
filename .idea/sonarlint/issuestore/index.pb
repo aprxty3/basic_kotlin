@@ -132,3 +132,7 @@ T
 $src/main/kotlin/oop/app/TypeCheck.kt,6/f/6f0a990c2d7a3e9a808ef3a8f63c214ab4a008b8
 Q
 !src/main/kotlin/oop/app/Equals.kt,b/0/b0d80daaf649a6a7993ad91ff9fa1943c918e8ce
+T
+$src/main/kotlin/oop/data/Location.kt,f/4/f42920673c20555bc5097416331f36f1a25f2040
+X
+(src/main/kotlin/oop/app/AbstractClass.kt,1/4/1400100fec787dbc2f8ae8a37e258568369dcd0e
