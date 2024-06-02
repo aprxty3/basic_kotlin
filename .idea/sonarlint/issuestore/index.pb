@@ -146,3 +146,5 @@ W
 'src/main/kotlin/oop/data/Interaction.kt,7/5/75c9c6c4069d80a1c2d0aba01e0f0e6c4995606c
 T
 $src/main/kotlin/oop/app/Interface.kt,0/9/097c61553d26d1c3e544ce585a34e80995778429
+]
+-src/main/kotlin/oop/app/VisibilityModifier.kt,6/d/6d3d03c632028c7397e76267265c77cb607b435d
