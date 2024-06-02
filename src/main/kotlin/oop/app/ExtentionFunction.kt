@@ -13,10 +13,19 @@ fun Students?.introduce(name: String) {
     }
 }
 
+val Students.hobby: String
+    get() = "Watching movie"
+
+val Students.upperName: String
+    get() = name.uppercase()
+
 fun main() {
     val student = Students("Budi", 20)
     student.speak()
 
     val student2 = Students("Eko", 22)
     student2.introduce("Joko")
+
+    println(student.hobby)
+    println(student.upperName)
 }
