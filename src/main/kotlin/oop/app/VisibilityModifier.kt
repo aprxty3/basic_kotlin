@@ -21,4 +21,7 @@ fun main() {
     val teacher = Teacher("Aji")
     // teacher.student("Budi") // Error
     teacher.print()
+
+    val superTeacher = SuperTeacher("Budi")
+    superTeacher.test()
 }
