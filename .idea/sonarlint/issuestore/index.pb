@@ -142,3 +142,7 @@ W
 'src/main/kotlin/oop/app/GetterSetter.kt,9/c/9c9a30e8a5ee05041458baacc89020f9766669f5
 S
 #src/main/kotlin/oop/app/LateInit.kt,9/e/9e5bbc12a231a6823c5b457b1a54c02069f58ad0
+W
+'src/main/kotlin/oop/data/Interaction.kt,7/5/75c9c6c4069d80a1c2d0aba01e0f0e6c4995606c
+T
+$src/main/kotlin/oop/app/Interface.kt,0/9/097c61553d26d1c3e544ce585a34e80995778429
