@@ -148,3 +148,5 @@ T
 $src/main/kotlin/oop/app/Interface.kt,0/9/097c61553d26d1c3e544ce585a34e80995778429
 ]
 -src/main/kotlin/oop/app/VisibilityModifier.kt,6/d/6d3d03c632028c7397e76267265c77cb607b435d
+\
+,src/main/kotlin/oop/app/ExtentionFunction.kt,f/a/faf33bc5a3c1960f36a9583d6fd0eb3ea87711f1
