@@ -154,3 +154,5 @@ T
 $src/main/kotlin/oop/app/DataClass.kt,0/4/049722ac94fa72b00cdd253bfa1f2ce84f677589
 V
 &src/main/kotlin/oop/app/SealedClass.kt,d/4/d4230defad93f88e11c075db2fd7a6b0b343c521
+U
+%src/main/kotlin/oop/app/InnerClass.kt,0/a/0a2418ef048a191041c7348aa7874da98e9d7888
