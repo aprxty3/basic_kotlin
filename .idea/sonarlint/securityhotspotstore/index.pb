@@ -152,3 +152,5 @@ $src/main/kotlin/oop/app/Interface.kt,0/9/097c61553d26d1c3e544ce585a34e80995778
 ,src/main/kotlin/oop/app/ExtentionFunction.kt,f/a/faf33bc5a3c1960f36a9583d6fd0eb3ea87711f1
 T
 $src/main/kotlin/oop/app/DataClass.kt,0/4/049722ac94fa72b00cdd253bfa1f2ce84f677589
+V
+&src/main/kotlin/oop/app/SealedClass.kt,d/4/d4230defad93f88e11c075db2fd7a6b0b343c521
