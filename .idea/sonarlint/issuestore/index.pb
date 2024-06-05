@@ -156,3 +156,5 @@ V
 &src/main/kotlin/oop/app/SealedClass.kt,d/4/d4230defad93f88e11c075db2fd7a6b0b343c521
 U
 %src/main/kotlin/oop/app/InnerClass.kt,0/a/0a2418ef048a191041c7348aa7874da98e9d7888
+Y
+)src/main/kotlin/oop/app/AnonymousClass.kt,e/e/ee6a0029bce610adfdeadec73ad1d913ddb9d9a6
