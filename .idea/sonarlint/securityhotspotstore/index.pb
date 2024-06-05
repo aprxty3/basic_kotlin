@@ -160,3 +160,5 @@ Y
 )src/main/kotlin/oop/app/AnonymousClass.kt,e/e/ee6a0029bce610adfdeadec73ad1d913ddb9d9a6
 T
 $src/main/kotlin/oop/app/EnumClass.kt,3/5/3565cdf5cba9610b321b4ebf6e09cb62bf8acd03
+Z
+*src/main/kotlin/oop/app/SingletonObject.kt,0/b/0b8f3033eafb6b7065976801b59d5127617b5ce6
