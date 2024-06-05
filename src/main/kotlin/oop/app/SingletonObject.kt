@@ -9,7 +9,7 @@ object Utilities {
 }
 
 class Application(val name: String) {
-    object Utilities {
+   companion object  {
         fun toUpper(value: String): String {
             return value.uppercase()
         }
@@ -20,5 +20,5 @@ fun main() {
     println(Utilities.name)
     println(Utilities.toUpper("kotlin"))
 
-    println(Application.Utilities.toUpper("kotlin"))
+    println(Application.toUpper("kotlin"))
 }
