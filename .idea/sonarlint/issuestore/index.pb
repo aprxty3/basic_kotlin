@@ -164,3 +164,5 @@ Z
 *src/main/kotlin/oop/app/SingletonObject.kt,0/b/0b8f3033eafb6b7065976801b59d5127617b5ce6
 T
 $src/main/kotlin/oop/app/TypeAlias.kt,5/b/5bc1abb0ecb7beb98e1cefa41ac5feca35e3226c
+V
+&src/main/kotlin/oop/app/InlineClass.kt,d/7/d75f355f1ea208707346d1b0f886136de578e2a0

@@ -1,14 +1,14 @@
 package oop.app
 
-typealias  App = Application
+typealias App = Application
 
-typealias  StringSupplier = () -> String
+typealias StringSupplier = () -> String
 
-fun sayHay (supplier : StringSupplier) {
+fun sayHay(supplier: StringSupplier) {
     println("Hello ${supplier()}")
 }
 
-fun main (){
+fun main() {
     val app = App("Kotlin")
     println(app.name)
 
