@@ -174,3 +174,5 @@ U
 %src/main/kotlin/oop/app/Observable.kt,1/1/119899356c41d07418d5768d5467c25f128c3737
 ]
 -src/main/kotlin/oop/app/DesctructuringData.kt,9/a/9a43146b708b60348a2a0d1045df118b2006ab7b
+U
+%src/main/kotlin/oop/app/NullSafety.kt,8/c/8ca441ef2aa2846d975edacce4e9d8c203080989
