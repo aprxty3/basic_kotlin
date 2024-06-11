@@ -176,3 +176,5 @@ U
 -src/main/kotlin/oop/app/DesctructuringData.kt,9/a/9a43146b708b60348a2a0d1045df118b2006ab7b
 U
 %src/main/kotlin/oop/app/NullSafety.kt,8/c/8ca441ef2aa2846d975edacce4e9d8c203080989
+T
+$src/main/kotlin/oop/app/Exception.kt,6/4/64474bb9316306f6a5cd4f7cf6dea51c66034c5b
