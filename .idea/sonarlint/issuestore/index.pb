@@ -172,3 +172,5 @@ Y
 )src/main/kotlin/oop/app/LazyProperties.kt,6/5/65392ec114a304faa1e7fcd6318a624d4efd0723
 U
 %src/main/kotlin/oop/app/Observable.kt,1/1/119899356c41d07418d5768d5467c25f128c3737
+]
+-src/main/kotlin/oop/app/DesctructuringData.kt,9/a/9a43146b708b60348a2a0d1045df118b2006ab7b
