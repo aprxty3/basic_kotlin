@@ -170,3 +170,5 @@ U
 %src/main/kotlin/oop/app/Delegation.kt,5/1/51d32940decd898ab40fed653dfcb7e1e54bbf96
 Y
 )src/main/kotlin/oop/app/LazyProperties.kt,6/5/65392ec114a304faa1e7fcd6318a624d4efd0723
+U
+%src/main/kotlin/oop/app/Observable.kt,1/1/119899356c41d07418d5768d5467c25f128c3737
